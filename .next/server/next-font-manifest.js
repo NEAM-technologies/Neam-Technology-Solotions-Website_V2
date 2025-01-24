@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/mattkc/Desktop/projects/Neam/Neam-Technology-Solutions-Website_V2/app/layout\":[\"static/media/a34f9d1faa5f3315-s.p.woff2\",\"static/media/9bf67a161a796382-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
